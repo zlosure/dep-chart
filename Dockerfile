@@ -1,2 +1,2 @@
-From: alpine
-CMD: ["ls" "-al']
+FROM alpine
+CMD ["ls", "-al"]
