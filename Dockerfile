@@ -1,2 +1,2 @@
 FROM alpine
-CMD ["top"]
+ENTRYPOINT ["top"]
