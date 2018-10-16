@@ -1,2 +1,2 @@
 FROM alpine
-CMD ["ls", "-al"]
+CMD ["top"]
